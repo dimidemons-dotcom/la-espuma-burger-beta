@@ -1,0 +1,434 @@
+[
+    {
+        "id":  "1",
+        "name":  "Bacon Lover",
+        "description":  "Doble carne, doble bacon, queso cheddar, cebolla caramelizada y salsa BBQ",
+        "price":  14.5,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  true,
+        "sortOrder":  1,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "2",
+        "name":  "Cheesetora",
+        "description":  "Cuatro quesos (cheddar, gouda, brie, azul) con carne 100% vacuno y rúcula",
+        "price":  15,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  true,
+        "sortOrder":  2,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "3",
+        "name":  "Trufada",
+        "description":  "Hamburguesa con trufa negra, queso parmesano, mayonesa de trufa y setas",
+        "price":  16.5,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa",
+                          "huevo"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  true,
+        "sortOrder":  3,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "4",
+        "name":  "Pancho\u0027s Burger",
+        "description":  "Hamburguesa clásica con lechuga, tomate, cebolla, pepinillo y ketchup",
+        "price":  10,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  4,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "5",
+        "name":  "Double Cheese Bacon",
+        "description":  "Doble carne, doble queso cheddar, doble bacon crujiente",
+        "price":  13.5,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  true,
+        "sortOrder":  5,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "6",
+        "name":  "WD40",
+        "description":  "Hamburguesa picante con jalapeños, queso pepper jack y salsa especial",
+        "price":  14,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  6,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "7",
+        "name":  "Burger Italiana",
+        "description":  "Con prosciutto, mozzarella fresca, tomate seco, albahaca y pesto",
+        "price":  14.5,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  7,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "8",
+        "name":  "Burger Cheff",
+        "description":  "La especialidad del cheff con ingredientes secretos y salsa house",
+        "price":  15.5,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa",
+                          "huevo"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  true,
+        "sortOrder":  8,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "9",
+        "name":  "Burger Vegetariana",
+        "description":  "Hamburguesa de garbanzos y verduras con queso feta y yogur griego",
+        "price":  11.5,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  9,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "10",
+        "name":  "Baby Burger",
+        "description":  "Hamburguesa infantil con carne 100g, queso y patatas fritas",
+        "price":  8.5,
+        "category":  "smash",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  10,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "11",
+        "name":  "Tequeños",
+        "description":  "8 unidades de tequeños con guayaba y queso",
+        "price":  6.5,
+        "category":  "enrollados",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  11,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "12",
+        "name":  "Croquetas Jamón",
+        "description":  "6 croquetas caseras de jamón ibérico",
+        "price":  7,
+        "category":  "picoteo",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa",
+                          "huevo"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  12,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "13",
+        "name":  "Alitas BBQ",
+        "description":  "10 alitas de pollo con salsa barbacoa",
+        "price":  9,
+        "category":  "picoteo",
+        "image":  "",
+        "allergens":  [
+                          "gluten"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  13,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "14",
+        "name":  "Nachos Supreme",
+        "description":  "Nachos con guacamole, crema agria, jalapeños y queso fundido",
+        "price":  8.5,
+        "category":  "picoteo",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  14,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "15",
+        "name":  "Papas Arrugadas",
+        "description":  "Papas canarias con mojo rojo y verde",
+        "price":  4.5,
+        "category":  "papas",
+        "image":  "",
+        "allergens":  [
+
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  15,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "16",
+        "name":  "Papas Cheddar Bacon",
+        "description":  "Papas fritas con queso cheddar fundido y bacon crujiente",
+        "price":  6.5,
+        "category":  "papas",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  16,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "17",
+        "name":  "Papas Trufadas",
+        "description":  "Papas fritas con aceite de trufa y parmesano",
+        "price":  7,
+        "category":  "papas",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  17,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "18",
+        "name":  "Loaded Fries",
+        "description":  "Papas fritas con pulled pork, queso y cebolla",
+        "price":  8.5,
+        "category":  "papas",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  18,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "19",
+        "name":  "Brownie",
+        "description":  "Brownie de chocolate con helado de vainilla",
+        "price":  5.5,
+        "category":  "postres",
+        "image":  "",
+        "allergens":  [
+                          "gluten",
+                          "lactosa",
+                          "huevo",
+                          "frutos secos"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  19,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "20",
+        "name":  "Tarta de Queso",
+        "description":  "Tarta de queso casera con mermelada de frutos rojos",
+        "price":  6,
+        "category":  "postres",
+        "image":  "",
+        "allergens":  [
+                          "lactosa",
+                          "huevo"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  20,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "21",
+        "name":  "Cheesecake",
+        "description":  "Cheesecake de Nueva York con coulis de frambuesa",
+        "price":  6.5,
+        "category":  "postres",
+        "image":  "",
+        "allergens":  [
+                          "lactosa",
+                          "huevo"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  21,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "22",
+        "name":  "Refresco",
+        "description":  "Coca-Cola, Fanta, Sprite",
+        "price":  2.5,
+        "category":  "bebidas",
+        "image":  "",
+        "allergens":  [
+
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  22,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "23",
+        "name":  "Cerveza",
+        "description":  "Cerveza nacional o importada",
+        "price":  3,
+        "category":  "bebidas",
+        "image":  "",
+        "allergens":  [
+                          "gluten"
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  23,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    },
+    {
+        "id":  "24",
+        "name":  "Agua",
+        "description":  "Agua mineral con o sin gas",
+        "price":  1.5,
+        "category":  "bebidas",
+        "image":  "",
+        "allergens":  [
+
+                      ],
+        "isAvailable":  true,
+        "isSoldOut":  false,
+        "isFeatured":  false,
+        "sortOrder":  24,
+        "createdAt":  "2026-06-01T00:00:00.000Z",
+        "updatedAt":  "2026-06-01T00:00:00.000Z"
+    }
+]
